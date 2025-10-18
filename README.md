@@ -1,6 +1,4 @@
-Of course. Here is a comprehensive, interview-centric README for your project, designed to highlight the key technologies, architecture, and your problem-solving skills for technical recruiters and hiring managers.
 
------
 
 # End-to-End LLM Fine-Tuning: Llama-3.1 on Legal Data with NeMo and NVIDIA NIM
 
